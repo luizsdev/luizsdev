@@ -1,5 +1,4 @@
 ## Oi eu sou o Luiz, estudante de Back-End | NodeJS
-<div align="center">
   <a href="https://github.com/luizsdev">
  
  
