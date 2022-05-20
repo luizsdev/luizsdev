@@ -1,7 +1,7 @@
 ## Oi eu sou o Luiz, estudante de Back-End | NodeJS
   <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizsdev&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsdev&layout=compact&langs_count=7/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsdev&layout=compact&langs_count=7"/>
   </div>
     <div align="center">
   <a href="https://instagram.com/luizsnc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
