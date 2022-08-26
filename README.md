@@ -1,4 +1,4 @@
-## Hi, I'm Luiz, a junior back-end developer
+## Hi, I'm Luiz, back-end developer
   <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsdev&theme=dracula&layout=compact&langs_count=7"/>
