@@ -1,6 +1,5 @@
 
   <div align="center">
-    <p><img src='https://komarev.com/ghpvc/?username=luizsdev&color=blue'/></p>
   </div>
     <div align="center">
   <a href = "mailto:luizsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
