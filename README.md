@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Luiz Guilherme
+# Hi there! 👋 I'm Luiz Guilherme Sanches
 - 🌍  I'm based in Rio de Janeiro, Brazil
 - ✉️  You can contact me at luizsdev@gmail.com
 <div align="center">
